@@ -47,22 +47,4 @@ pip install opencv-python mediapipe numpy autopy
 ## Credits
 Developed using Python, OpenCV, and MediaPipe.
 
----
-
-# LinkedIn Post
-🚀 Introducing AI Virtual Mouse! 🎯
-
-No more touching the mouse—control your computer with just hand gestures! 🖐️ This AI-powered virtual mouse uses OpenCV, MediaPipe, and AutoPy to track hand movements and simulate mouse actions.
-
-🔥 Features:
-✅ Hand gesture-based cursor movement
-✅ Click detection with finger distance tracking
-✅ Smooth and responsive control
-✅ No additional hardware needed—just your webcam!
-
-🔧 Requirements: Python 3.8, OpenCV, MediaPipe, NumPy, AutoPy
-
-🔗 Try it out now! (Attach GitHub link)
-
-#AI #ComputerVision #HandTracking #Python #OpenCV #MachineLearning
 
